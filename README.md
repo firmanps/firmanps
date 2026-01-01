@@ -22,7 +22,6 @@
 
 ---
 
-
 <h3 align="center">👨‍💻 About Me</h3>
 
 <p align="center">
@@ -68,12 +67,3 @@ Terbuka untuk <b>collaboration, freelance, dan junior backend / full stack oppor
       alt="github contribution snake" />
   </picture>
 </div>
-
-<!--
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=firmanps&theme=github-compact&radius=16"/>
-</div>
--->
-
