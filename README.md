@@ -22,38 +22,58 @@
 
 ---
 
-### **👨‍💻 About Me**
 
-Saya adalah **mahasiswa Ilmu Komputer** sekaligus **Full Stack Developer** yang fokus membangun aplikasi web **end-to-end**, dari UI modern hingga backend API yang rapi, scalable, dan mudah di-maintain.
-Terbuka untuk **collaboration, freelance, dan junior backend / full stack opportunities**.
+<h3 align="center">👨‍💻 About Me</h3>
+
+<p align="center">
+Saya adalah <b>mahasiswa Ilmu Komputer</b> sekaligus <b>Full Stack Developer</b> yang fokus membangun aplikasi web <b>end-to-end</b>, dari UI modern hingga backend API yang rapi, scalable, dan mudah di-maintain.
+<br/>
+Terbuka untuk <b>collaboration, freelance, dan junior backend / full stack opportunities</b>.
+</p>
 
 ---
 
-### **🧰 Tech Stack**
+<h3 align="center">🧰 Tech Stack</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,js,ts,nestjs,prisma,postgres,mysql,tailwind,vscode&theme=dark" />
 </p>
 
 ---
 
-### **📊 GitHub Stats**
+<h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-<a href="https://github.com/firmanps">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=firmanps&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=firmanps&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/firmanps">
+    <img height="180em"
+      src="https://github-readme-stats-eight-theta.vercel.app/api?username=firmanps&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em"
+      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=firmanps&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
 
 ---
 
-### **⭐ From [FirmanPS](https://github.com/firmanps)**
+<p align="center">
+  ⭐ From <a href="https://github.com/firmanps"><b>FirmanPS</b></a>
+</p>
 
 <!-- Snake graph -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/firmanps/firmanps/main/github-contribution-grid-snake-dark.svg" />
+    <img
+      src="https://raw.githubusercontent.com/firmanps/firmanps/main/github-contribution-grid-snake.svg"
+      alt="github contribution snake" />
+  </picture>
+</div>
 
+<!--
 <br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=firmanps&theme=github-compact&radius=16"/>
 </div>
+-->
+
