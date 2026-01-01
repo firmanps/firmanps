@@ -36,7 +36,7 @@ Terbuka untuk <b>collaboration, freelance, dan junior backend / full stack oppor
 <h3 align="center">🧰 Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,js,ts,nestjs,prisma,postgres,mysql,tailwind,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nextjs,js,ts,nestjs,prisma,postgres,mysql,tailwind,vscode,html&theme=dark" />
 </p>
 
 ---
