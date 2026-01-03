@@ -27,7 +27,7 @@
 <p align="center">
 Saya adalah <b>mahasiswa Ilmu Komputer</b> sekaligus <b>Full Stack Developer</b> yang fokus membangun aplikasi web <b>end-to-end</b>, dari UI modern hingga backend API yang rapi, scalable, dan mudah di-maintain.
 <br/>
-Terbuka untuk <b>collaboration, freelance, dan junior backend / full stack opportunities</b>.
+Terbuka untuk <b>collaboration, freelance, dan junior fullstack opportunities</b>.
 </p>
 
 ---
