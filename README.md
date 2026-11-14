@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">
-  Hi 👋, I'm <a href="https://firmanps.com" target="_blank">Firman Parulian S</a>
+  Hi 👋, I'm <a href="https://firmanps.my.id" target="_blank">Firman Parulian S</a>
 </h1>
 
 <p align="center">
@@ -15,7 +15,7 @@
   <a href="https://linkedin.com/in/firman-parulian-siburian-4416832b3/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/fiansiburian_" target="_blank">
+  <a href="https://instagram.com/firmansiburian__" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
@@ -25,9 +25,9 @@
 <h3 align="center">👨‍💻 About Me</h3>
 
 <p align="center">
-Saya adalah <b>mahasiswa Ilmu Komputer</b> sekaligus <b>Full Stack Developer</b> yang fokus membangun aplikasi web <b>end-to-end</b>, dari UI modern hingga backend API yang rapi, scalable, dan mudah di-maintain.
+Saya adalah <b>Full-Stack Web Developer</b> yang berpengalaman dalam membangun aplikasi web modern (<b>Next.js, React, Node.js, Express, TypeScript</b>) secara <b>end-to-end</b>, mulai dari frontend, backend, API, database, hingga deployment.
 <br/>
-Terbuka untuk <b>collaboration, freelance, dan junior fullstack opportunities</b>.
+Saya juga terbiasa mengintegrasikan model <b>Machine Learning berbasis Python</b> ke dalam aplikasi web, dengan kemampuan <b>problem solving</b> yang adaptif.
 </p>
 
 ---
