@@ -45,9 +45,9 @@ Saya juga terbiasa mengintegrasikan model <b>Machine Learning berbasis Python</b
 <p align="center">
   <a href="https://github.com/firmanps">
     <img height="180em"
-      src="https://github-readme-stats-eight-theta.vercel.app/api?username=firmanps&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+      src="https://github-stats-extended.vercel.app/api?username=firmanps&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Firman's GitHub Stats" />
     <img height="180em"
-      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=firmanps&layout=compact&langs_count=8&theme=algolia"/>
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=firmanps&layout=compact&langs_count=8&theme=algolia" alt="Firman's Top Languages" />
   </a>
 </p>
 
