@@ -25,7 +25,7 @@
 <h3 align="center">👨‍💻 About Me</h3>
 
 <p align="center">
-Saya adalah <b>Full-Stack Web Developer</b> yang berpengalaman dalam membangun aplikasi web modern (<b>Next.js, React, Node.js, Express, TypeScript</b>) secara <b>end-to-end</b>, mulai dari frontend, backend, API, database, hingga deployment.
+Saya adalah <b>Full-Stack Web Developer</b> yang berpengalaman dalam membangun aplikasi web modern (<b>Next.js, React, Node.js, Nest.js, TypeScript</b>) secara <b>end-to-end</b>, mulai dari frontend, backend, API, database, hingga deployment.
 <br/>
 Saya juga terbiasa mengintegrasikan model <b>Machine Learning berbasis Python</b> ke dalam aplikasi web, dengan kemampuan <b>problem solving</b> yang adaptif.
 </p>
