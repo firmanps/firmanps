@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  🚀 Computer Science Student
+  🚀 Full-Stack Web Developer | Computer Science Graduate
 </p>
 
 <p align="center">
